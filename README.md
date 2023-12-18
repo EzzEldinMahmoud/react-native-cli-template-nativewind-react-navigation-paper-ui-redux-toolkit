@@ -3,7 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Getting Started
 <br />
 
-1.clone the repo  
+### Clone the repo  
 
 <br />
 
@@ -11,7 +11,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 <br />
 
-2.then npm install or yarn add
+### Then npm install or yarn add
 
 <br />
 
@@ -19,7 +19,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 <br />
 
-3.npm start and have fun !
+### Npm start and have fun !
 
 <br />
 
