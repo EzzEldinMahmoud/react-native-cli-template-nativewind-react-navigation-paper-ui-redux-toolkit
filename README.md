@@ -1,9 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
-# clone the repo 
-## then npm install or yarn add 
-## npm start and have fun ! 
+### 1- clone the repo 
+### 2- then npm install or yarn add 
+###  3- npm start and have fun ! 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
