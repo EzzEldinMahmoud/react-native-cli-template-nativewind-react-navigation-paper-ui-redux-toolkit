@@ -10,11 +10,12 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 <br />
 2- then npm install or yarn add 
 <br />
-> npm install
+***npm install***
 
 <br />
 3- npm start and have fun !
-> npm start
+<br />
+***npm start***
 <br />
 
 
